@@ -33,9 +33,8 @@ The **Rahlati** app is an integrated platform for discovering and browsing tours
 https://github.com/eng-it-nawaf/Rahlati-App---Discover-Travel.git
 
 
-📸 Screenshots
+📸 **Screenshots**
 
-[App Screenshot 1](screenshots/assets/images/1.png)
-[App Screenshot 2](screenshots/assets/images/2.png)
-[App Screenshot 3](screenshots/assets/images/3.png)
-[App Screenshot 4](screenshots/assets/images/4.png)
+![App Screenshot 1](screenshots/assets/images/1.png)  
+![App Screenshot 2](screenshots/assets/images/2.png)  
+![App Screenshot 3](screenshots/assets/images/3.png)
