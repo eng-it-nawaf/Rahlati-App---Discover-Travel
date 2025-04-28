@@ -1,6 +1,9 @@
 # **Rahlati App - Tour Discovery Platform**
 
-![App Screenshot](screenshots/main.png)
+![App Screenshot](screenshots/assets/images/1.png)
+![App Screenshot](screenshots/assets/images/3.png)
+![App Screenshot](screenshots/assets/images/4.png)
+![App Screenshot](screenshots/assets/images/2.png)
 
 ## 🌍 **Overview**
 The **Rahlati** app is an integrated platform for discovering and browsing tours around the world, with advanced features for viewing details and bookings. The app was built using **Flutter** to provide a consistent user experience across all platforms.
@@ -32,9 +35,3 @@ The **Rahlati** app is an integrated platform for discovering and browsing tours
 # Copy the project
 https://github.com/eng-it-nawaf/Rahlati-App---Discover-Travel.git
 
-
-📸 **Screenshots**
-
-![App Screenshot 1](screenshots/assets/images/1.png)  
-![App Screenshot 2](screenshots/assets/images/2.png)  
-![App Screenshot 3](screenshots/assets/images/3.png)
